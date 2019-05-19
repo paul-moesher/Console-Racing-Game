@@ -1,0 +1,12 @@
+﻿  RaceGame.cpp
+c:\users\paul moesher\desktop\racegame\racegame\racegame\racegame.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\paul moesher\desktop\racegame\racegame\racegame\racegame.cpp(111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\paul moesher\desktop\racegame\racegame\racegame\racegame.cpp(130): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\paul moesher\desktop\racegame\racegame\racegame\racegame.cpp(131): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\paul moesher\desktop\racegame\racegame\racegame\racegame.cpp(132): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\paul moesher\desktop\racegame\racegame\racegame\racegame.cpp(133): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\paul moesher\desktop\racegame\racegame\racegame\racegame.cpp(159): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\paul moesher\desktop\racegame\racegame\racegame\racegame.cpp(203): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\paul moesher\desktop\racegame\racegame\racegame\racegame.cpp(204): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\paul moesher\desktop\racegame\racegame\racegame\racegame.cpp(205): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RaceGame.vcxproj -> C:\Users\Paul Moesher\Desktop\RaceGame\RaceGame\Debug\RaceGame.exe
