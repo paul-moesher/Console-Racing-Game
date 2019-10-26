@@ -1,2 +1,2 @@
-# Console-Racing-Game
+# console-racing-game
 C++ console racing game.
